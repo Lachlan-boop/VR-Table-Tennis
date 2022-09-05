@@ -15,15 +15,19 @@ C:/Users/Lachlan/Documents/Unity Projects/VR-Table-Tennis/VRTableTennis
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
 51849
+=======
+54045
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 Successfully changed project path to: D:/Student Work/Lachlan Dean/VR-Table-Tennis/VRTableTennis
 D:/Student Work/Lachlan Dean/VR-Table-Tennis/VRTableTennis
 ========
 62453
 Successfully changed project path to: C:/Users/Lachlan/Documents/Unity Projects/VR-Table-Tennis/VRTableTennis
 C:/Users/Lachlan/Documents/Unity Projects/VR-Table-Tennis/VRTableTennis
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -53,19 +57,24 @@ C:/Users/Lachlan/Documents/Unity Projects/VR-Table-Tennis/VRTableTennis
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
-Refreshing native plugins compatible for Editor in 66.01 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.51 ms.
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+Refreshing native plugins compatible for Editor in 64.51 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.48 ms.
+=======
+Refreshing native plugins compatible for Editor in 102.96 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.60 ms.
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 Initialize engine version: 2021.3.8f1 (b30333d56e81)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path D:/Student Work/Lachlan Dean/VR-Table-Tennis/VRTableTennis/Assets
 ========
-Refreshing native plugins compatible for Editor in 126.54 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.79 ms.
+Refreshing native plugins compatible for Editor in 127.63 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.69 ms.
 Initialize engine version: 2021.3.6f1 (7da38d85baf6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/Lachlan/Documents/Unity Projects/VR-Table-Tennis/VRTableTennis/Assets
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -74,104 +83,135 @@ Direct3D:
     VRAM:     11128 MB
     Driver:   31.0.15.1694
 Initialize mono
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003536 seconds.
+Registered in 0.172351 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 61.61 ms, found 11 plugins.
+Refreshing native plugins compatible for Editor in 61.51 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.10 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.431 seconds
+- Completed reload, in  3.155 seconds
 Domain Reload Profiling:
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
 	ReloadAssembly (432ms)
 		BeginReloadAssembly (46ms)
 ========
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56628
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.009593 seconds.
+Registered in 0.009293 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 118.92 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.22 ms.
+Refreshing native plugins compatible for Editor in 118.01 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.703 seconds
+- Completed reload, in  0.705 seconds
 Domain Reload Profiling:
-	ReloadAssembly (704ms)
-		BeginReloadAssembly (55ms)
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+	ReloadAssembly (706ms)
+		BeginReloadAssembly (47ms)
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
+=======
+	ReloadAssembly (3156ms)
+		BeginReloadAssembly (2093ms)
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
 			CreateAndSetChildDomain (1ms)
 		EndReloadAssembly (315ms)
 			LoadAssemblies (45ms)
+=======
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (681ms)
+			LoadAssemblies (2095ms)
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (70ms)
+			SetupTypeCache (433ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (17ms)
+			SetupLoadedEditorAssemblies (195ms)
+				LogAssemblyErrors (0ms)
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+				InitializePlatformSupportModulesInManaged (37ms)
 ========
 			CreateAndSetChildDomain (0ms)
-		EndReloadAssembly (526ms)
-			LoadAssemblies (54ms)
+		EndReloadAssembly (537ms)
+			LoadAssemblies (46ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (110ms)
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+			SetupTypeCache (109ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (327ms)
+			SetupLoadedEditorAssemblies (340ms)
 				LogAssemblyErrors (0ms)
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
-				InitializePlatformSupportModulesInManaged (37ms)
+				InitializePlatformSupportModulesInManaged (65ms)
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
+=======
+				InitializePlatformSupportModulesInManaged (36ms)
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (62ms)
+				RefreshPlugins (118ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (64ms)
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+				ProcessInitializeOnLoadAttributes (65ms)
 				ProcessInitializeOnLoadMethodAttributes (30ms)
 ========
-				InitializePlatformSupportModulesInManaged (64ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (119ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (91ms)
+				ProcessInitializeOnLoadAttributes (106ms)
 				ProcessInitializeOnLoadMethodAttributes (49ms)
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
+=======
+				ProcessInitializeOnLoadAttributes (63ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
-Registered in 0.004193 seconds.
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+Registered in 0.003957 seconds.
 ========
-Registered in 0.012420 seconds.
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+Registered in 0.012206 seconds.
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
+=======
+Registered in 0.004091 seconds.
+Android Extension - Scanning For ADB Devices 4057 ms
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Lachlan\Documents\Unity Projects\VR-Table-Tennis\VRTableTennis\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Lachlan\Documents\Unity Projects\VR-Table-Tennis\VRTableTennis\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
-Refreshing native plugins compatible for Editor in 60.40 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.03 ms.
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+Refreshing native plugins compatible for Editor in 61.11 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
 ========
-Refreshing native plugins compatible for Editor in 127.38 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.11 ms.
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+Refreshing native plugins compatible for Editor in 125.73 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
+=======
+Refreshing native plugins compatible for Editor in 60.01 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 Package Manager log level set to [2]
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\Lachlan\Documents\Unity Projects\VR-Table-Tennis\VRTableTennis\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
@@ -189,83 +229,106 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
 - Completed reload, in  0.965 seconds
+=======
+- Completed reload, in  3.814 seconds
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 Domain Reload Profiling:
-	ReloadAssembly (965ms)
-		BeginReloadAssembly (198ms)
+	ReloadAssembly (3815ms)
+		BeginReloadAssembly (72ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (125ms)
-		EndReloadAssembly (678ms)
-			LoadAssemblies (64ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (3641ms)
+			LoadAssemblies (2175ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (179ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (40ms)
-			SetupLoadedEditorAssemblies (370ms)
+			SetupTypeCache (492ms)
+			ReleaseScriptCaches (0ms)
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (374ms)
 ========
-- Completed reload, in  1.532 seconds
+- Completed reload, in  1.526 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1533ms)
-		BeginReloadAssembly (208ms)
+	ReloadAssembly (1527ms)
+		BeginReloadAssembly (204ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (133ms)
-		EndReloadAssembly (1191ms)
-			LoadAssemblies (69ms)
+			CreateAndSetChildDomain (130ms)
+		EndReloadAssembly (1190ms)
+			LoadAssemblies (67ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (299ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (68ms)
-			SetupLoadedEditorAssemblies (669ms)
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+			SetupTypeCache (301ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (668ms)
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
+=======
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (908ms)
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (16ms)
 				SetLoadedEditorAssemblies (0ms)
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
-				RefreshPlugins (60ms)
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+				RefreshPlugins (61ms)
 				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (193ms)
+				ProcessInitializeOnLoadAttributes (197ms)
 				ProcessInitializeOnLoadMethodAttributes (24ms)
 				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.79 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.05 ms.
-Unloading 4252 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 47 unused Assets / (56.3 KB). Loaded Objects now: 4698.
-Memory consumption went from 147.6 MB to 147.5 MB.
-Total: 2.759800 ms (FindLiveObjects: 0.282800 ms CreateObjectMapping: 0.097500 ms MarkObjects: 2.317400 ms  DeleteObjects: 0.061400 ms)
 ========
-				RefreshPlugins (128ms)
-				BeforeProcessingInitializeOnLoad (146ms)
-				ProcessInitializeOnLoadAttributes (331ms)
-				ProcessInitializeOnLoadMethodAttributes (38ms)
-				AfterProcessingInitializeOnLoad (10ms)
+				RefreshPlugins (126ms)
+				BeforeProcessingInitializeOnLoad (148ms)
+				ProcessInitializeOnLoadAttributes (329ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (9ms)
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
+=======
+				RefreshPlugins (60ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (239ms)
+				ProcessInitializeOnLoadMethodAttributes (528ms)
+				AfterProcessingInitializeOnLoad (5ms)
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 1.36 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.12 ms.
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 11 plugins.
+=======
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 11 plugins.
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 4252 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (56.3 KB). Loaded Objects now: 4698.
+Memory consumption went from 147.6 MB to 147.5 MB.
+<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker1-prev.log
+Total: 2.826100 ms (FindLiveObjects: 0.253400 ms CreateObjectMapping: 0.091800 ms MarkObjects: 2.408700 ms  DeleteObjects: 0.071600 ms)
+========
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
 Unloading 4245 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 49 unused Assets / (112.0 KB). Loaded Objects now: 4692.
 Memory consumption went from 147.6 MB to 147.5 MB.
-Total: 4.023100 ms (FindLiveObjects: 0.496300 ms CreateObjectMapping: 0.161800 ms MarkObjects: 3.236500 ms  DeleteObjects: 0.127000 ms)
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
+Total: 2.102400 ms (FindLiveObjects: 0.189200 ms CreateObjectMapping: 0.085800 ms MarkObjects: 1.756000 ms  DeleteObjects: 0.070700 ms)
+>>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker0.log
+=======
+Total: 2.900700 ms (FindLiveObjects: 0.261100 ms CreateObjectMapping: 0.168600 ms MarkObjects: 2.418000 ms  DeleteObjects: 0.052300 ms)
+>>>>>>> parent of 25937d6 (X9):VRTableTennis/Logs/AssetImportWorker0.log
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -279,102 +342,89 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-<<<<<<<< HEAD:VRTableTennis/Logs/AssetImportWorker0-prev.log
-  Time since last request: 493.947750 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82df0f95a89efd91bff26bf864a42ce') in 0.011744 seconds 
-========
-  Time since last request: 689992.401860 seconds.
+  Time since last request: 690009.434643 seconds.
   path: Assets/Scenes/GUI.unity
   artifactKey: Guid(5ebef31516fc57d45bb42e205db715eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GUI.unity using Guid(5ebef31516fc57d45bb42e205db715eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6307848b6a542ee568c92a9bd4aec9') in 0.010861 seconds 
+Start importing Assets/Scenes/GUI.unity using Guid(5ebef31516fc57d45bb42e205db715eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1e6921749a68b947600eff86e9c9fb') in 0.009007 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1761.636465 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
-  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1399baaafacc37aa733a1c2ab0fc965d') in 0.165378 seconds 
+  Time since last request: 1744.605887 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b3db33232d43a9869655cc75f3ef3e') in 0.204190 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.464377 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
-  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b384868e2f2b4fdc8ed3adf5b3421713') in 0.069345 seconds 
+  Time since last request: 9.426145 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd270b88d89e19446de7426c95484e8a0') in 0.062047 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 30.498146 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/CasualDay4K.hdr
-  artifactKey: Guid(1153dc89e66880c4eb7adc16ba588855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/CasualDay4K.hdr using Guid(1153dc89e66880c4eb7adc16ba588855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7708cbe1b0df88e9d8b8dc238defec') in 0.107654 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudRight.hdr
-  artifactKey: Guid(438e868ac8cccca4e81873838a67c003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudRight.hdr using Guid(438e868ac8cccca4e81873838a67c003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6954ad547da95ee48d9c83b343114c57') in 0.024357 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudTop.hdr
-  artifactKey: Guid(a199da0432efa6a489df8883d1f3bfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudTop.hdr using Guid(a199da0432efa6a489df8883d1f3bfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d9fe1365d0d3db8313de841ef3ff29') in 0.022656 seconds 
+  Time since last request: 30.504500 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/AmbienceExposure4k.hdr
+  artifactKey: Guid(c9bc6cdb7a2e78b4c85ae74715b0a355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/AmbienceExposure4k.hdr using Guid(c9bc6cdb7a2e78b4c85ae74715b0a355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456a066e6f70a8cad66bf03cf9eef74a') in 0.113527 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000023 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/DayInTheClouds4k.hdr
-  artifactKey: Guid(90196f2c2d8d2f2448717676e1a09894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/DayInTheClouds4k.hdr using Guid(90196f2c2d8d2f2448717676e1a09894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b06c1983ca9455c07dd3630cbc82c4') in 0.084654 seconds 
+  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudBack.hdr
+  artifactKey: Guid(a779becf00399924184cd13e046a100e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudBack.hdr using Guid(a779becf00399924184cd13e046a100e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee518bff6e10bcb289cea07a25bf54f') in 0.026453 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudFront.hdr
-  artifactKey: Guid(d822c5eff7d42f04691027bc8c2b0716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudFront.hdr using Guid(d822c5eff7d42f04691027bc8c2b0716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60db813bb0c71df1ad23e7edb0799da4') in 0.020464 seconds 
+  Time since last request: 0.000020 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudLeft.hdr
+  artifactKey: Guid(740f96d568f4f3e40b049c40f11603e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudLeft.hdr using Guid(740f96d568f4f3e40b049c40f11603e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989f1aad3e0d00c5a21ad5ae4ca524f9') in 0.022269 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
-  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72200549b97ff12ff44a36c3fabf96c') in 0.008693 seconds 
+  Time since last request: 0.000042 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/CloudedSunGlow4k.hdr
+  artifactKey: Guid(12c15a8e5a294be45819b1dd4b9b08d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/CloudedSunGlow4k.hdr using Guid(12c15a8e5a294be45819b1dd4b9b08d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96836f0ab06845bf7ea58eb2017a646d') in 0.069837 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudBottom.hdr
-  artifactKey: Guid(94b877781ad034640abce933599b6f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudBottom.hdr using Guid(94b877781ad034640abce933599b6f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7912abc3cfc35c365e6b7db84f3c91c5') in 0.020555 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/Cloudymorning4k.hdr
-  artifactKey: Guid(3b5d67736d7b8ad4f8da4d58eaef0b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/Cloudymorning4k.hdr using Guid(3b5d67736d7b8ad4f8da4d58eaef0b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b64adaf7872b84b7da14635d1e57ae') in 0.064540 seconds 
+  Time since last request: 0.000027 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/CoriolisNight4k.hdr
+  artifactKey: Guid(354036e57ae357148aed267204ce73a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/CoriolisNight4k.hdr using Guid(354036e57ae357148aed267204ce73a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd168db40280fde31cb05f037921426f2') in 0.071730 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000024 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudEQ_hdr.exr
-  artifactKey: Guid(09999639e73bcd64abda22253af612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudEQ_hdr.exr using Guid(09999639e73bcd64abda22253af612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3262be004bcb68e21def7954fc79aa0') in 1.906598 seconds 
+  path: Assets/SkySeries Freebie/ExampleScenes/SceneObjects/DemoObjects.prefab
+  artifactKey: Guid(88c20de6c1dc0f04abeaffaac0a9a6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/ExampleScenes/SceneObjects/DemoObjects.prefab using Guid(88c20de6c1dc0f04abeaffaac0a9a6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cef73e45b8656edea14602e788a0393') in 0.071400 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.823310 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/FluffballDay4k.hdr
-  artifactKey: Guid(3e80b688af9b1d84ea52c5d36bb1cbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/FluffballDay4k.hdr using Guid(3e80b688af9b1d84ea52c5d36bb1cbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06d263de9b0ad004811967777cc573d') in 0.067383 seconds 
+  Time since last request: 0.000025 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/DarkStorm4K.hdr
+  artifactKey: Guid(762f22ba43541df4e95e0e7126e8d96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/DarkStorm4K.hdr using Guid(762f22ba43541df4e95e0e7126e8d96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'affc79c278d8927d23c6c90c297529f2') in 0.067485 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/FluffballDayFront.hdr
-  artifactKey: Guid(4499836ec803a0443834895abc208fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/FluffballDayFront.hdr using Guid(4499836ec803a0443834895abc208fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0f4b0c8529a40344c7a15927bf7e97') in 0.019340 seconds 
+  Time since last request: 15.656063 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3950451084668360d05945240589cf11') in 0.012367 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/SkySeries Freebie/FreebieHdri/FluffballDayBottom.hdr
-  artifactKey: Guid(42e0664ae4c5c424ebcd980a10687e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SkySeries Freebie/FreebieHdri/FluffballDayBottom.hdr using Guid(42e0664ae4c5c424ebcd980a10687e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7460ddd1ea2073a0fcd61f440cded9a8') in 0.039354 seconds 
+  Time since last request: 0.000022 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/FluffballDayLeft.hdr
+  artifactKey: Guid(a78d8299279fda54098aca1c72ecfae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/FluffballDayLeft.hdr using Guid(a78d8299279fda54098aca1c72ecfae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b002066cf69943b279728ae5197959f') in 0.038182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/FluffballDayTop.hdr
+  artifactKey: Guid(c769857dc541ab7449d1352d7ff46ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/FluffballDayTop.hdr using Guid(c769857dc541ab7449d1352d7ff46ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa7d8c5ca5e38e991d4139ca9574067') in 0.022148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/HighFantasy4k.hdr
+  artifactKey: Guid(6e998e53d0a82bb45928cd08a0fcfff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/HighFantasy4k.hdr using Guid(6e998e53d0a82bb45928cd08a0fcfff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df88a5d7afdbf8c1a940c4f43ab913d3') in 0.068774 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
->>>>>>>> 37a2f1659382e01080e904eea9b6b930c0968f02:VRTableTennis/Logs/AssetImportWorker1.log
