@@ -112,7 +112,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -121,14 +121,14 @@ MonoBehaviour:
     y: 556
     width: 1466
     height: 383
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 18}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
   - {fileID: 18}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -373,22 +373,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Student Work\Lachlan Dean\VR-Table-Tennis\VRTableTennis
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 90850000
-    m_LastClickedID: 34192
-    m_ExpandedIDs: 000000003c85000000ca9a3bffffff7f
+    m_SelectedIDs: 86830000
+    m_LastClickedID: 33670
+    m_ExpandedIDs: 000000001e83000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -416,7 +416,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003c850000
+    m_ExpandedIDs: 000000001e830000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -544,20 +544,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: dc860000
-      m_LastClickedID: 34524
-      m_ExpandedIDs: f2ddffff2edfffff66faffffc4860000c8860000d4860000
+      m_SelectedIDs: 16940000
+      m_LastClickedID: 37910
+      m_ExpandedIDs: feb2feff3611fffff62bffff7c2cffff0a47ffff5647ffffa048ffffd063ffff4067ffff8e85ffff768cfffff6a6ffff50a8ffffc4c2ffff20c3ffffa4ddfffff8deffff2efbffffd2890000e2890000108a0000228a0000fc8a00000c8b0000328b0000448b000000940000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Canvas
-        m_OriginalName: Canvas
+        m_Name: XR Origin
+        m_OriginalName: XR Origin
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 34340
+        m_UserData: 35344
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -795,9 +795,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.030168355, y: 0.18729606, z: -0.098945856}
+    m_Target: {x: 1.1876215, y: 1.0256883, z: -2.0559626}
     speed: 2
-    m_Value: {x: 0.030168355, y: 0.18729606, z: -0.098945856}
+    m_Value: {x: 1.1876215, y: 1.0256883, z: -2.0559626}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -844,13 +844,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.17935354, y: -0.40276906, z: 0.08080027, w: 0.89393544}
+    m_Target: {x: 0.09818194, y: -0.11499595, z: 0.011402708, w: 0.9884607}
     speed: 2
-    m_Value: {x: 0.17934996, y: -0.40276104, z: 0.08079866, w: 0.8939176}
+    m_Value: {x: 0.098179564, y: -0.11499317, z: 0.011402432, w: 0.9884368}
   m_Size:
-    m_Target: 0.19471273
+    m_Target: 1.1293874
     speed: 2
-    m_Value: 0.19471273
+    m_Value: 1.1826046
   m_Ortho:
     m_Target: 0
     speed: 2

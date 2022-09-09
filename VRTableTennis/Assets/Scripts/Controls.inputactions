@@ -1,0 +1,34 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "PlayerInput",
+            "id": "ca791f98-2a74-4c4e-8cbe-616ac94259d9",
+            "actions": [
+                {
+                    "name": "PickupBall",
+                    "type": "Button",
+                    "id": "0c02d3ba-5471-490c-a198-d55754ddd003",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6dd1f2a1-149f-4f97-806f-dc73eb2f6061",
+                    "path": "<XRController>{LeftHand}/triggerPressed",
+                    "interactions": "Hold",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PickupBall",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
