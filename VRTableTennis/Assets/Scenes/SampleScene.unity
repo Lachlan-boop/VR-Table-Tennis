@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.010486943, g: 0.05298245, b: 0.15319028, a: 1}
+  m_IndirectSpecularColor: {r: 0.010485779, g: 0.052983798, b: 0.15318781, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -361,7 +361,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 114988330}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 3
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -382,21 +382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minVelocity: 0
-  actionMap:
-    m_Name: Action Map
-    m_Id: 723139a0-61a4-4f6d-af7e-8e7b0312e4a5
-    m_Asset: {fileID: 0}
-    m_Actions: []
-    m_Bindings: []
-  pickupAction:
-    m_Name: Pickup
-    m_Type: 0
-    m_ExpectedControlType: 
-    m_Id: 18e3d63a-bffd-4b9f-95f8-6e4c70efb50a
-    m_Processors: 
-    m_Interactions: 
-    m_SingletonActionBindings: []
-    m_Flags: 0
+  Hand: {fileID: 1599486545}
 --- !u!1 &218865134 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 781d90503b98c19438acf112dd1dbf2c, type: 3}

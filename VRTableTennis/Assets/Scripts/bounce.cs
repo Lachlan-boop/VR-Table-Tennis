@@ -7,36 +7,50 @@ public class bounce : MonoBehaviour
 {
     public float minVelocity;
     Vector3 lastFrameVelocity;
+    public Transform Hand;
 
-    public InputActionMap actionMap;
-    public InputAction pickupAction;
+    bool isAttached = false;
 
+    Controls controls;
     private void Start()
     {
-        pickupAction.started += ctx => pickupBall();
-        pickupAction.canceled += ctx => DropBall();
+        controls.PlayerInput.PickupBall.started += ctx => pickupBall();
+        controls.PlayerInput.PickupBall.canceled += ctx => DropBall();
     }
 
     private void Update()
-    {//Axis1D.PrimaryIndexTrigger   
+    {//Axis1D.PrimaryIndexTrigger 
+        if(isAttached)
+        {
+            GetComponent<Rigidbody>().useGravity = false;
+            transform.position = Hand.transform.position;
+        } else
+        {
+            GetComponent<Rigidbody>().useGravity = true;
+        }
 
     }
 
     private void OnEnable()
     {
-        pickupAction = actionMap.FindAction("PickupBall");
-        pickupAction.Enable();
-
+        if(controls == null)
+        {
+            controls = new Controls();
+        }
+        controls.PlayerInput.Enable();
     }
 
     private void pickupBall()
     {
-        print("PICKUP");
+        isAttached = true;
+        transform.position = Hand.transform.position;
     }
 
     private void DropBall()
     {
-        print("drop");
+        GetComponent<Rigidbody>().AddForce(transform.forward, ForceMode.Impulse);
+        isAttached = false;
+        print("dropped");   
     }
 
     private void OnCollisionEnter(Collision collision)
