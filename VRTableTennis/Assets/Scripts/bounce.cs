@@ -5,6 +5,10 @@ using UnityEngine.InputSystem;
 
 public class bounce : MonoBehaviour
 {
+
+    [SerializeField] float Force = 50f;
+    Rigidbody rb;
+
     public float minVelocity;
     Vector3 lastFrameVelocity;
     public Transform Hand;
@@ -14,6 +18,11 @@ public class bounce : MonoBehaviour
     Controls controls;
     private void Start()
     {
+        rb = GetComponent<Rigidbody>();
+
+        rb.AddForce(transform.forward * Force, ForceMode.Impulse);
+
+
         controls.PlayerInput.PickupBall.started += ctx => pickupBall();
         controls.PlayerInput.PickupBall.canceled += ctx => DropBall();
     }
