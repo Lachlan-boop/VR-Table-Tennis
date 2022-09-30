@@ -51,8 +51,8 @@ public class bounce : MonoBehaviour
 
     private void pickupBall()
     {
-        isAttached = true;
-        transform.position = Hand.transform.position;
+        //isAttached = true;
+        //transform.position = Hand.transform.position;
     }
 
     private void DropBall()
