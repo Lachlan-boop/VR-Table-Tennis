@@ -10,7 +10,7 @@ public class BallShooter : MonoBehaviour
 	Controls controls;
 
     [SerializeField] float BallforceUp = 5;
-    [SerializeField] float BallForceForward = 5;
+    [SerializeField] float BallForceForward = 50;
     GameObject ball;
 
     private void Start()
@@ -30,7 +30,7 @@ public class BallShooter : MonoBehaviour
         Rigidbody rb = ball.GetComponent<Rigidbody>();
         ball.transform.position = BallSpawnPoint.transform.position;
         rb.velocity = Vector3.zero;
-        rb.AddForce((transform.forward * BallForceForward  + transform.up * BallforceUp), ForcseMode.Impulse);
+        rb.AddForce((transform.forward * BallForceForward  + transform.up * BallforceUp), ForceMode.Impulse);
         print("dropped");
     }
 
